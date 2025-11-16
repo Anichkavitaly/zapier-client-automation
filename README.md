@@ -1,5 +1,9 @@
 # 🤖 Client Chatbot Automation (Zapier + Google Sheets)
 
+## 📸 Zapier Workflow Screenshot
+![Zapier Workflow](https://github.com/user-attachments/assets/84ba1fff-02fd-483e-85b0-fc49bec795b2)
+
+
 ## 📌 Project Overview
 This project demonstrates an automated client interaction system for a psychotherapy clinic using Zapier and Google Sheets.  
 The automation greets clients, answers common questions, and logs all interactions in a structured Google Sheet.
